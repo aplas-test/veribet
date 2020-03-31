@@ -1,21 +1,25 @@
 {
-  "id": "veribet",
-  "name": "Veribet",
-  "categoryId": "core",
-  "description": "Compatible neutral extranet",
-  "investment_24m": "789",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "150",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "304",
-  "deployment_date": "31/5/07",
-  "end_of_maintenance": "26/4/17",
-  "department": "Research and Development",
-  "status": "Active",
-  "end_of_life": "20/9/19",
-  "sme_name": "Starlene Grayshan",
-  "months_to_renew_support": "13",
-  "sme_email": "Starlene.Grayshan@memento.net.au",
-  "investment_number": "335"
+  "applications": [
+    {
+      "id": "veribet",
+      "name": "Veribet",
+      "categoryId": "core",
+      "description": "Compatible neutral extranet",
+      "investment_24m": "789",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "150",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "304",
+      "deployment_date": "31/5/07",
+      "end_of_maintenance": "26/4/17",
+      "department": "Research and Development",
+      "status": "Active",
+      "end_of_life": "20/9/19",
+      "sme_name": "Starlene Grayshan",
+      "months_to_renew_support": "13",
+      "sme_email": "Starlene.Grayshan@memento.net.au",
+      "investment_number": "335"
+    }
+  ]
 }
